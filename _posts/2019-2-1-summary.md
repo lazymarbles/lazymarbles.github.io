@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019/02/01 46 Updates"
+title: "2019/2/1 46 Updates"
 ---
 ##1Integrating shortest dependency path and sentence sequence into a deep learning framework for relation extraction in clinical text.##
 Relation extraction - deep learning**Shortest dependency path**
