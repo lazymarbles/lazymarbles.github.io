@@ -15,6 +15,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
+#Max 10 items in a page
+paginate: 10
+
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
