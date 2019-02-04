@@ -15,6 +15,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
+#Max 10 items in a page
+paginate: 10
+
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -76,6 +80,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # pagination plugin
 
 # Exclude these files from your production _site
 exclude:
